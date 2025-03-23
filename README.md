@@ -1,6 +1,7 @@
 # learnOpenGl
 ## 这是一个学习项目，仿照了LearnOpenGL的教程，用C++和OpenGL写的一个项目，实现3D场景的创建和光照效果
-## 3D物品创建方面参考了Three.js的计算公式（https://threejs.org），个人修改成了C/C++版本，结合imgui的功能可以在运行过程中自由调节模型参数
+## 3D物品创建方面参考了Three.js的计算公式 https://threejs.org
+## 个人修改成了C/C++版本，结合imgui的功能可以在运行过程中自由调节模型参数
 ## 教程地址：https://learnopengl-cn.github.io
 
 ## 运行环境
